@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Excerpt Character Limiter
-Plugin URI: http://www.trapella.it/2010/english/wordpress-excerpt-character-limit/
+Plugin URI: http://www.trapella.it/2010/english/wordpress-excerpt-character-limit
 Description: Adds a character limit to post excerpt panels. Simple but effective!
 Author: Matteo Trapella (Habla Webdesign)
 Version: 1.1

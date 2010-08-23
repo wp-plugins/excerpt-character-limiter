@@ -11,23 +11,25 @@ It will basically add a character countdown to the panel titlebar, and it will t
 
 WordPress Excerpts should be short, you know.
 
-But when a user writes a lot, you might want to limit the number of characters for the excerpt panel: that’s where the Excerpt Character Limiter plugin comes handy!
+But when a user writes a lot, you might want to limit the number of characters for the excerpt panel: that's where the Excerpt Character Limiter plugin comes handy!
 
 It will basically add a character countdown to the panel titlebar, and it will truncate the text when available characters drop to zero.
 Simple but effective!
 
+Now the plugin can limit the title bar, too!
+
 
 == Installation ==
-
-This section describes how to install the plugin and get it working.
-
-e.g.
 
 1. Upload `excerpt-character-limiter-1.0` folder to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 
 
 == Changelog ==
+
+= 1.1 =
+* Excerpt Character Limiter now uses Wordpress built-in jQuery
+* Now you can limit the title field, too. 
 
 = 1.0 =
 * first stable version 

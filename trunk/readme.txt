@@ -16,6 +16,8 @@ But when a user writes a lot, you might want to limit the number of characters f
 It will basically add a character countdown to the panel titlebar, and it will truncate the text when available characters drop to zero.
 Simple but effective!
 
+Now the plugin can limit the title bar, too!
+
 
 == Installation ==
 

@@ -3,7 +3,7 @@ Contributors: matteotrap
 Tags: excerpt
 Requires at least: 2.8
 Tested up to: 3.0
-Stable tag: 1.0
+Stable tag: 1.1
 
 It will basically add a character countdown to the panel titlebar, and it will truncate the text when available characters drop to zero.
 

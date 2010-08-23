@@ -19,7 +19,7 @@ Simple but effective!
 
 == Installation ==
 
-1. Upload `excerpt-character-limiter-1.0` folder to the `/wp-content/plugins/` directory
+1. Upload `excerpt-character-limiter-1.1` folder to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 
 
